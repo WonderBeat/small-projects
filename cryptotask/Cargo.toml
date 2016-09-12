@@ -1,0 +1,12 @@
+[package]
+name = "cryptotask"
+version = "0.1.0"
+authors = ["WonderBeat <borov.htid@gmail.com>"]
+
+
+[dependencies]
+rust-crypto = "^0.2"
+num = "*"
+time = "0.1"
+ascii = "*"
+rustc-serialize = "*"
